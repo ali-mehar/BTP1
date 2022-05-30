@@ -1,0 +1,31 @@
+
+.logo-c{
+    color: 	#f03433;
+    font-weight: bold;
+            
+}
+.logo{
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+.btn{
+    padding-top: 2px;
+}
+@media (min-width: 992px){
+.navbar-expand-lg {
+    height: 3.7rem;
+}
+.img-h{
+    height: 400px;
+}
+.growth-h{
+    width: 60rem;
+    height: 23rem;
+}
+.bg-form{
+    background-color: #f1f1f1;
+   
+}
+.map{
+    width: 100%;
+}
